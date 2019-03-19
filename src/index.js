@@ -67,7 +67,6 @@ const styles = {
   title: {
     height: 30,
     justifyContent: 'center',
-    position: 'absolute',
     paddingLeft: 10,
     bottom: -30,
     left: 0,
