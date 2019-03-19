@@ -41,7 +41,7 @@ const styles = {
   },
 
   pagination_x: {
-    position: 'absolute',
+    position: 'relative',
     bottom: 25,
     left: 0,
     right: 0,
@@ -53,7 +53,7 @@ const styles = {
   },
 
   pagination_y: {
-    position: 'absolute',
+    position: 'relative',
     right: 15,
     top: 0,
     bottom: 0,
